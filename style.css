@@ -17,7 +17,7 @@ body{
 }
 
 .cabecalho .logo{
-    background: url(../imagens/logo.jpg) center center no-repeat;
+    background: url(logo.jpg) center center no-repeat;
     width: 85px;
     height: 85px;
     display: inline-block;
@@ -45,7 +45,7 @@ body{
 }
 
 .painel{
-    background: url(../imagens/painel.jpg) center center no-repeat;
+    background: url(painel.jpg) center center no-repeat;
     height: 600px;
 
 }
@@ -95,32 +95,32 @@ body{
 }
 
 .ladrilho .grande{
-    background: url(../imagens/4.jpg) center center no-repeat;
+    background: url(4.jpg) center center no-repeat;
     height: 600px;
     width:50% ;
 }
 
 .ladrilho .pequeno{
-    background: url(../imagens/3.jpg) center center no-repeat;
+    background: url(3.jpg) center center no-repeat;
     height: 300px;
     width: 25%;
 }
 
 .ladrilho .pequeno.grao{
-    background: url(../imagens/2.jpg) center center no-repeat;
+    background: url(2.jpg) center center no-repeat;
     height: 300px;
     width: 25%;
 }
 
 .ladrilho .medio{
-    background: url(../imagens/1.jpg) center center no-repeat;
+    background: url(1.jpg) center center no-repeat;
     height: 300px;
     width: 50%;
 
 }
 
 .contato{
-    background: url(../imagens/fundo-contato.jpg) center center no-repeat;
+    background: url(fundo-contato.jpg) center center no-repeat;
     color:white;
     height:600px;
     position:relative;
@@ -144,7 +144,7 @@ body{
 }
 
 .rodape{
-    background: url(../imagens/fundo-rodape.jpg) center center no-repeat;
+    background: url(fundo-rodape.jpg) center center no-repeat;
     padding: 35px 30px;
     background-size: cover;
 }
@@ -189,4 +189,3 @@ body{
 }
 
 
-/* PAREI EM 1:01:26 SEC, NA PARTE DO RESPONSIVO.*/
